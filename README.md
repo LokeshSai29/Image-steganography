@@ -39,6 +39,7 @@ To run the project locally, follow the steps below.
 
 ## Demo :
 > ![Screenshot 2025-01-05 145120](https://github.com/user-attachments/assets/c2dadfe9-f995-4862-9270-0e5cf0302eea)
+
 > https://github.com/user-attachments/assets/7aefb964-36e8-45a6-bfc5-39c7fd10e2ee
 
 
